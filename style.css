@@ -1,0 +1,124 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    
+}
+
+.imagem-background{
+    background-image: url("sh_homem_1016721946.jpg");
+    background-size:cover;
+}
+
+a{
+	text-decoration:none;
+}
+
+.menu-cabecalho{
+    text-align:center;
+    margin:10px 0 20px 0;
+}
+
+.item-menu-cabecalho{
+    display:inline-block;
+    margin: 20px;
+    font-size: 18px;
+}
+
+.item-menu-cabecalho-foco{
+    font-size: 22px;
+    color: darkgreen;
+}
+
+.caixa-principal{
+    position:relative;
+    margin: 10% 0 0 10%;
+    width: 300px;
+
+}
+
+.texto-apresentacao{
+    font-weight: bold;
+    font-size: 30px;
+    margin-bottom: 12px;
+}
+
+.subtexto{
+    font-size: 15px;
+    margin-bottom: 12px;
+}
+.botao{
+    color: white;
+    background-color: darkcyan;
+    border-radius: 20px;
+    padding: 5px 20px;
+    border-style:none;
+
+}
+
+.corpo-principal{
+    width: 75%;
+    margin: 0 auto;
+}
+
+.texto-titulo{
+    font-size: 25px;
+    font-weight: bold;
+    padding: 20px;
+}
+
+.subdivisao{
+    width: 30%;
+    display:inline-block;
+    box-sizing:border-box;
+    vertical-align:top;
+}
+
+.secao-texto{
+    padding: 0 0 20px 20px;
+    font-size: 13px;
+    line-height:1.3em;
+    text-align:justify;
+    
+}
+
+.imagem-homem-meio-texto{
+    max-width: 100%;
+}
+
+#botao-contact-me{
+    margin: 0 0 20px 20px;
+}
+
+.titulo-centralizado{
+    text-align:center;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.input{
+    border-style:none;
+    border-bottom-style:solid;
+    border-width:1px;
+    border-color: lightgrey;
+    margin-bottom: 2em;
+    box-sizing:border-box;
+    padding-top: 10px;
+}
+
+#input-first-name{
+    width:45%;
+    margin-right: 5%;
+}
+
+#input-last-name{
+    width:45%;
+}
+
+.corpo-principal-formulario{
+    width: 50%;
+    margin: 0 auto;
+    padding: 50px 10% 0 10%;
+}
+
+.outros-inputs{
+    width: 95%;
+}
